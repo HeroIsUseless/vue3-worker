@@ -1,0 +1,28 @@
+{
+  "name": "vue-worker",
+  "version": "1.2.0",
+  "description": "A Vue.js plugin to use webworkers in a simply way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeroIsUseless/vue3-worker.git"
+  },
+  "keywords": [
+    "VueJs",
+    "Web",
+    "Worker",
+    "Plugin"
+  ],
+  "author": "heroisuseless <3256384696@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HeroIsUseless/vue3-worker/issues"
+  },
+  "homepage": "https://github.com/HeroIsUseless/vue3-worker#readme",
+  "dependencies": {
+    "simple-web-worker": "1.2.0"
+  }
+}
